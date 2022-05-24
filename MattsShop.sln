@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MattsShop", "MattsShop\MattsShop.csproj", "{5C9096D9-4167-474B-A750-08BF7F9BAEB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MattsShop.Tests", "MattsShop.Tests\MattsShop.Tests.csproj", "{83D3C76B-3A8F-42F1-BF62-F5F8CEAC8024}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C9096D9-4167-474B-A750-08BF7F9BAEB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C9096D9-4167-474B-A750-08BF7F9BAEB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C9096D9-4167-474B-A750-08BF7F9BAEB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C9096D9-4167-474B-A750-08BF7F9BAEB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83D3C76B-3A8F-42F1-BF62-F5F8CEAC8024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83D3C76B-3A8F-42F1-BF62-F5F8CEAC8024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83D3C76B-3A8F-42F1-BF62-F5F8CEAC8024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83D3C76B-3A8F-42F1-BF62-F5F8CEAC8024}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
